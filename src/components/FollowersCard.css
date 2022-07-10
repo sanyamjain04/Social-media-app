@@ -1,0 +1,40 @@
+.followerCard {
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    border-radius: .7rem;
+    font-size: 13px;
+    gap: 1rem;
+
+}
+
+.follower {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+
+}
+
+.follower > div {
+    display: flex;
+    gap: 10px;
+}
+
+.followerimg{
+    height: 3.2rem;
+    border-radius: 50%;
+    width: 3.2rem;
+
+}
+
+.name {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+.name>span:nth-of-type(1) {
+    font-weight: bold;
+}

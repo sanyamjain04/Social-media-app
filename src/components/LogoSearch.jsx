@@ -9,7 +9,7 @@ function LogoSearch() {
     <div className='Logosearch'>
         <img src={Logo} alt="logo" width={30} className='logo' />
         <div className="Search">
-            <input type="text" placeholder='#Explore' className='search'/>
+            <input type="text" placeholder='# Explore' className='search'/>
             <div className="s-icon">
                 <UilSearch />
 
