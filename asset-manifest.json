@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Social-media-app/static/css/main.d12b4318.css",
+    "main.js": "/Social-media-app/static/js/main.2c8593b9.js",
+    "static/media/photo3.jpg": "/Social-media-app/static/media/photo3.39b8d08742d363cab98e.jpg",
+    "static/media/twitter-logo.png": "/Social-media-app/static/media/twitter-logo.b413b75b86f226240110.png",
+    "static/media/SanyamJain.jpg": "/Social-media-app/static/media/SanyamJain.543ee1e1c2143a13bf15.jpg",
+    "static/media/img1.png": "/Social-media-app/static/media/img1.a0fca9c51749c1ee3db5.png",
+    "static/media/img2.png": "/Social-media-app/static/media/img2.f5f922c9b93eaf2c4065.png",
+    "static/media/img3.png": "/Social-media-app/static/media/img3.6b1484548ee065fd59b5.png",
+    "static/media/photo1.jpg": "/Social-media-app/static/media/photo1.86bfd698a3fb8660f310.jpg",
+    "static/media/photo2.jpg": "/Social-media-app/static/media/photo2.fd489d7ff9c089d7e068.jpg",
+    "index.html": "/Social-media-app/index.html",
+    "main.d12b4318.css.map": "/Social-media-app/static/css/main.d12b4318.css.map",
+    "main.2c8593b9.js.map": "/Social-media-app/static/js/main.2c8593b9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d12b4318.css",
+    "static/js/main.2c8593b9.js"
+  ]
+}
