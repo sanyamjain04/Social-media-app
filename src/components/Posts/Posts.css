@@ -1,8 +1,7 @@
-.postSide {
+.posts {
     display: flex;
     flex-direction: column;
-    overflow: auto;
-    height: 100vh;
     gap: 1rem;
+    
 
 }
