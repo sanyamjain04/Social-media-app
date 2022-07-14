@@ -1,7 +1,7 @@
 import React from 'react'
 import './Home.css'
 import PostSide from '../../components/PostSide/PostSide'
-import ProfileSide from '../../components/ProfileSide'
+import ProfileSide from '../../components/ProfileSide/ProfileSide'
 import RightSide from '../../components/RightSide/RightSide'
 
 function Home() {

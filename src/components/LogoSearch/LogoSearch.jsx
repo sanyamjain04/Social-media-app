@@ -1,6 +1,6 @@
 import React from 'react'
 import './LogoSearch.css'
-import Logo from '../img/twitter-logo.png'
+import Logo from '../../img/twitter-logo.png'
 import {UilSearch} from '@iconscout/react-unicons'
 
 

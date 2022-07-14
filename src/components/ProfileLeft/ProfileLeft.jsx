@@ -1,6 +1,6 @@
 import React from "react";
-import LogoSearch from "../../components/LogoSearch";
-import FollowersCard from "../../components/FollowersCard";
+import LogoSearch from "../../components/LogoSearch/LogoSearch";
+import FollowersCard from "../FollowersCard/FollowersCard";
 import InfoCard from "../InfoCard/InfoCard";
 
 const ProfileLeft = () => {
